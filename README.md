@@ -1,4 +1,4 @@
-# rdgmzz.github.io
+# Integrantes
 Gómez Menes Rodrigo Hiram
 Velázquez Álvarez Ángel Sebastián
 Garduño Ruiz Adrián Alejandro
